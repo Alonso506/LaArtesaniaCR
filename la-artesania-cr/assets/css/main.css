@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 
@@ -4310,3 +4310,61 @@
 			}
 
 		}
+
+{
+    box-sizing: border-box;
+}
+
+bodyGallery {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.columnGallery {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+
+    /* Style the images inside the grid */
+    .columnGallery img {
+        opacity: 0.8;
+        cursor: pointer;
+    }
+
+        .columnGallery img:hover {
+            opacity: 1;
+        }
+
+/* Clear floats after the columns */
+.rowGallery:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* The expanding image container */
+.containerGallery {
+    position: relative;
+    display: none;
+}
+
+/* Expanding image text */
+#imgtextGallery {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtnGallery {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+}
