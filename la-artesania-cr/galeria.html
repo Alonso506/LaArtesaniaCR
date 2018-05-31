@@ -45,20 +45,19 @@
         <div id="main" class="container">
 
             <div style="text-align:center">
-                <h2>Tabbed Image Gallery</h2>
-                <p>Click on the images below:</p>
+                <p>Puedes hacer click en las imagenes:</p>
             </div>
 
             <!-- The four columns -->
             <div class="rowGallery">
                 <div class="columnGallery">
-                    <img src="images/ajedres_madera.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+                    <img src="images/ajedres_madera.jpg" alt="Ajedrez" style="width:100%" onclick="myFunction(this);">
                 </div>
                 <div class="columnGallery">
-                    <img src="images/ardilla_madera.png" alt="Fjords" style="width:100%" onclick="myFunction(this);">
+                    <img src="images/jardin_vidrio.jpg" alt="Jardin" style="width:100%" onclick="myFunction(this);">
                 </div>
                 <div class="columnGallery">
-                    <img src="images/cofre1_madera.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+                    <img src="images/jaguar_barro.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
                 </div>
                 <div class="columnGallery">
                     <img src="images/figura_madera.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
@@ -67,8 +66,31 @@
 
             <div class="containerGallery">
                 <span onclick="this.parentElement.style.display='none'" class="closebtnGallery">&times;</span>
-                <img id="expandedImg" style="width:100%">
+                <img id="expandedImg" style="width:50%">
                 <div id="imgtext"></div>
+            </div>
+            <div class="table-wrapper">
+                <table class="alt">
+                    <thead>
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Descripcion</th>
+                            <th>Material</th>
+                            <th>Artista</th>
+                            <th>Precio</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Item 1</td>
+                            <td>Ante turpis integer aliquet porttitor.</td>
+                            <td>Ante turpis integer aliquet porttitor.</td>
+                            <td>Item 1</td>
+                            <td>29.99</td>
+                        </tr>                    
+                    </tbody>
+                  
+                </table>
             </div>
 
             <!-- Elements -->
