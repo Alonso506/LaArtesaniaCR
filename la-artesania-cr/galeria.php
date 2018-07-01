@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <!--
 	Hielo by TEMPLATED
 	templated.co @templatedco
