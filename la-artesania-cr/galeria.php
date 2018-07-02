@@ -92,6 +92,41 @@
                 </table>
             </div>
 
+
+
+            <!-- Three -->
+            <section id="three" class="wrapper style2">
+                <div class="inner">
+                    <header class="align-center">
+                        <p class="special">Calidad, cercanía y variedad </p>
+                        <h2>Una pincelada</h2>
+                    </header>
+                    <div class="gallery">
+                        <div>
+                            <div class="image fit">
+                                <a href="#"><img src="images/rueda_metal.jpg" alt="" /></a>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="image fit">
+                                <a href="#"><img src="images/tren_metal.jpg" alt="" /></a>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="image fit">
+                                <a href="#"><img src="images/varios_madera.jpg" alt="" /></a>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="image fit">
+                                <a href="#"><img src="images/corazon_madera.jpg" alt="" /></a>.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+
             <!-- Footer -->
             <footer id="footer">
                 <div class="container">
