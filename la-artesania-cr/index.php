@@ -23,10 +23,12 @@
 			<nav id="menu">
                 <ul class="links">
                     <li><a href="index.html">Inicio</a></li>
-                    <li><a href="recomendaciones.html">Recomendaciones</a></li>
-                    <li><a href="categorias.html">Categorías</a></li>
-                    <li><a href="galeria.html">Galeria</a></li>
-                    <li><a href="sobreNosotros.html">Sobre Nosotros</a></li>
+                    <li><a href="recomendaciones.php">Recomendaciones</a></li>
+                    <li><a href="categorias.php">Categorías</a></li>
+                    <li><a href="login.php">Gerencia</a></li>
+                    <li><a href="galeria.php">Galeria</a></li>
+                    <li><a href="sobreNosotros.php">Sobre Nosotros</a></li>
+
                 </ul>
 			</nav>
 
