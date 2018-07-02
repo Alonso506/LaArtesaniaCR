@@ -15,18 +15,30 @@
 
 		<!-- Header -->
 			<header id="header">
+<<<<<<< HEAD
 				<div class="logo"><a href="index.html">LaArtesaníaCR <span>SISTEMAS EXPERTOS</span></a></div>
+=======
+				<div class="logo"><a href="index.php">LaArtesaníaCR <span>SISTEMAS EXPERTOS</span></a></div>
+>>>>>>> b44e09f2768aa2430caa21723ee559f2217ceb0c
 				<a href="#menu">Menu</a>
 			</header>
 
 		<!-- Nav -->
 			<nav id="menu">
                 <ul class="links">
+<<<<<<< HEAD
                     <li><a href="index.html">Inicio</a></li>
                     <li><a href="recomendaciones.html">Recomendaciones</a></li>
                     <li><a href="categorias.html">Categorías</a></li>
                     <li><a href="galeria.html">Galeria</a></li>
                     <li><a href="sobreNosotros.html">Sobre Nosotros</a></li>
+=======
+                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="recomendaciones.php">Recomendaciones</a></li>
+                    <li><a href="categorias.php">Categorías</a></li>
+                    <li><a href="galeria.php">Galeria</a></li>
+                    <li><a href="sobreNosotros.php">Sobre Nosotros</a></li>
+>>>>>>> b44e09f2768aa2430caa21723ee559f2217ceb0c
                 </ul>
 			</nav>
 
@@ -57,7 +69,11 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
+<<<<<<< HEAD
 										<a href="galeriaMadera.php" class="button alt">Ver Galería</a>
+=======
+										<a href="#" class="button alt">Ver Galería</a>
+>>>>>>> b44e09f2768aa2430caa21723ee559f2217ceb0c
 									</footer>
 								</div>
 							</div>
@@ -75,7 +91,11 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
+<<<<<<< HEAD
 										<a href="galeriaMetal.php" class="button alt">Ver Galería</a>
+=======
+										<a href="#" class="button alt">Ver Galería</a>
+>>>>>>> b44e09f2768aa2430caa21723ee559f2217ceb0c
 									</footer>
 								</div>
 							</div>
@@ -93,7 +113,11 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
+<<<<<<< HEAD
 										<a href="galeriaBarro.php" class="button alt">Ver Galería</a>
+=======
+										<a href="#" class="button alt">Ver Galería</a>
+>>>>>>> b44e09f2768aa2430caa21723ee559f2217ceb0c
 									</footer>
 								</div>
 							</div>
@@ -111,7 +135,11 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
+<<<<<<< HEAD
 										<a href="galeriaVidrio.php" class="button alt">Ver Galería</a>
+=======
+										<a href="#" class="button alt">Ver Galería</a>
+>>>>>>> b44e09f2768aa2430caa21723ee559f2217ceb0c
 									</footer>
 								</div>
 							</div>
