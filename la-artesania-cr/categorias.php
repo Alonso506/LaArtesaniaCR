@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <!--
 	Hielo by TEMPLATED
 	templated.co @templatedco
@@ -75,7 +75,7 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
-										<a href="#" class="button alt">Ver Galería</a>
+										<a href="galeriaMetal.php" class="button alt">Ver Galería</a>
 									</footer>
 								</div>
 							</div>
@@ -93,7 +93,7 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
-										<a href="#" class="button alt">Ver Galería</a>
+										<a href="galeriaBarro.php" class="button alt">Ver Galería</a>
 									</footer>
 								</div>
 							</div>
@@ -111,7 +111,7 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
-										<a href="#" class="button alt">Ver Galería</a>
+										<a href="galeriaVidrio.php" class="button alt">Ver Galería</a>
 									</footer>
 								</div>
 							</div>
