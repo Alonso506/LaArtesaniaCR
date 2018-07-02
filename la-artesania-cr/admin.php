@@ -15,18 +15,18 @@
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="index.html">LaArtesaníaCR <span>SISTEMAS EXPERTOS</span></a></div>
+				<div class="logo"><a href="index.php">LaArtesaníaCR <span>SISTEMAS EXPERTOS</span></a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
 		<!-- Nav -->
 			<nav id="menu">
                 <ul class="links">
-                    <li><a href="index.html">Log out</a></li>
+                    <li><a href="index.php">Log out</a></li>
                     <li><a href="crear.php">Crear</a></li>
                     <li><a href="editar.php">Editar</a></li>
-                    <li><a href="galeria.html">Eliminar</a></li>
-                    <li><a href="sobreNosotros.html">Sobre Nosotros</a></li>
+                    <li><a href="galeria.php">Eliminar</a></li>
+                    <li><a href="sobreNosotros.php">Sobre Nosotros</a></li>
                 </ul>
 			</nav>
 
